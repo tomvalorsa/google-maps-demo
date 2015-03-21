@@ -3,3 +3,10 @@ html, body, #map-canvas {
   margin: 0px;
   padding: 0px
 }
+
+/*#map-canvas {
+  width: 50%;
+  height: 50%;
+  margin: auto;
+  margin-top: 10%;
+}*/

@@ -1,10 +1,5 @@
 // jQuery Version:
 
-// This needs to be declared outside so that if it is rendered again
-// it will just replace the old one, rather than throw up another map.
-// Right? Guys?
-var map;
-
 var initializeMap = function() {
   // Step 1 - Declare the container for your map.
   var $container = $('#map-canvas')[0];
@@ -16,7 +11,7 @@ var initializeMap = function() {
   };
 
   // Step 3 - Instantiate the map.
-  map = new google.maps.Map($container, mapOptions);
+  var map = new google.maps.Map($container, mapOptions);
 }
 
 
