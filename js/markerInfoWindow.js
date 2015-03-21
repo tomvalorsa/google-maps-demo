@@ -25,7 +25,7 @@ var initializeMap = function() {
     '</div>'+
     '<h1 id="firstHeading" class="firstHeading">Colosseum, Rome</h1>'+
     '<div id="bodyContent">'+
-    '<p><b>The Colosseum</b> lives here.</p>'
+    '<p>Look at all of the people inside of me.</p>'
     '</div>'+
     '</div>';
 
