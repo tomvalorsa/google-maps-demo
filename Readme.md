@@ -6,9 +6,10 @@ I have constructed a few simple examples to show how to get the API up and runni
 
 ## Getting Started
 
-Before you begin you must obtain an API key from the [Google Developers Console](https://console.developers.google.com/). You can make 25,000 requests per day fo' free.
+Before you begin you must obtain an API key from the [Google Developers Console](https://console.developers.google.com/). You can make 25,000 requests per day **fo' free**.
 
 ## Further Reading
 
-mapOptions - https://developers.google.com/maps/documentation/javascript/reference#MapOptions
+Documentation/Developer's Guide - https://developers.google.com/maps/documentation/javascript/tutorial
 
+mapOptions - https://developers.google.com/maps/documentation/javascript/reference#MapOptions
