@@ -17,7 +17,7 @@ var initializeMap = function() {
   var marker = new google.maps.Marker({
       position: myLatlng,
       map: map,
-      // icon: image,
+      icon: image,
       title: 'Hello World!'
   });
 }

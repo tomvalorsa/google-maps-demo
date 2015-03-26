@@ -8,6 +8,15 @@ I have constructed a few simple examples to show how to get the API up and runni
 
 Before you begin you must obtain an API key from the [Google Developers Console](https://console.developers.google.com/). You can make 25,000 requests per day **fo' free**.
 
+To do this:
+- create a new project
+- go to 'APIs & auth' on the sidebar
+- search for the relevant API (in this case we want 'Google Maps JavaScript API')
+- go to 'Credentials' on the sidebar
+- under 'Public API access' click 'Create new key'
+- when prompted choose 'Browser key' (this is specific to this simple example, this may differ in your future projects)
+- copy and paste the API key into your script tag for the API in the head of your HTML
+
 ## Further Reading
 
 **Documentation/Developer's Guide** - https://developers.google.com/maps/documentation/javascript/tutorial
